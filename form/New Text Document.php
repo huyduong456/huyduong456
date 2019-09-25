@@ -9,3 +9,5 @@
     * License: GPLv2 or later // Thông tin license của plugin, nếu không quan tâm thì bạn cứ để GPLv2 vào đây
  * /
 ?>
+ *
+ * test
